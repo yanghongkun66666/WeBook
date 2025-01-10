@@ -14,5 +14,6 @@ func main() {
 
 	//u.RegisterRoutes(server)
 	server.Run(":8080")
+	//
 	//以上是使用init_web的方式
 }
